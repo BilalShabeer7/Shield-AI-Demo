@@ -1,0 +1,5 @@
+streamlit>=1.32
+groq>=0.9
+pandas>=2.0
+plotly>=5.20
+vaderSentiment>=3.3.2
